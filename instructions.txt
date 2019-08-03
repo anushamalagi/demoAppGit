@@ -1,1 +1,2 @@
 This file contains all the instructions needed to setup the project.
+//TODO add the required instructions
